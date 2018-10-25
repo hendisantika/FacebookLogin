@@ -1,4 +1,4 @@
-package com.careydevelopment.facebooklogin.controller;
+package com.hendisantika.facebooklogin.controller;
 
 import facebook4j.Facebook;
 import facebook4j.FacebookFactory;

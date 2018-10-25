@@ -1,4 +1,4 @@
-package com.careydevelopment.facebooklogin;
+package com.hendisantika.facebooklogin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
